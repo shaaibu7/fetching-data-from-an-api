@@ -1,0 +1,1 @@
+this code fetches covid-19 data from an external api and displays it on the browser window.
